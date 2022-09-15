@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tanishka2706
 - 👀 Coding, Web development interests me
 - 🌱 I’m currently sharpening my coding skills, learning new skills
-- 💞️ I’m looking to forward to getting internships and testing my skills 
+- 💞️ Keeping my eye out for an internship.
 - 📫 How to reach me .. email- tanishkamane555@gmail.com
 
 <!---
